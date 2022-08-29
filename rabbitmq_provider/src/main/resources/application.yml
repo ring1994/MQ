@@ -1,0 +1,10 @@
+server:
+  port: 8001
+spring:
+  application:
+    name: rabbitmq_provider
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: root
+    password: root
